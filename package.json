@@ -1,0 +1,17 @@
+{
+  "name": "mg-email-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "sps003",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "nodemailer": "^6.9.9"
+  }
+}
